@@ -1,5 +1,5 @@
 # Paribu-Ticker
-Chrome and Opera Extension, Php Ticker Json Object For Paribu Coins Value.
+Chrome and Opera Extension, Php Json Parser For Paribu Coin Checker
 # Installing
 1. Download the CRX file to your computer for the Chrome extension you want to install.
 2. Go to chrome://extensions/ and check the box for Developer mode in the top right.
